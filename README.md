@@ -7,7 +7,7 @@
     Hello my name is Mukul Chavan, JavaScript and php Developer.
 
 
-## Conhecimentos / Knowledges
+## Knowledges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/mukulchavan/)](https://github.com/mukulchavan/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/mukulchavan/)](https://github.com/LuizCarlosAbbott/)
