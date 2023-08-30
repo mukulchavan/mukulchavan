@@ -16,7 +16,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/mukulchavan/)](https://github.com/LuizCarlosAbbott/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/mukulchavan/)](https://github.com/mukulchavan/)
 [![Python](https://img.shields.io/badge/-python-fff?style=flat-square&logo=python&link=https://github.com/mukulchavan/)](https://github.com/mukulchavan/)
-
+[![openai](https://img.shields.io/badge/-openai-000?style=flat-square&logo=openai&link=https://github.com/mukulchavan/)](https://github.com/mukulchavan/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/mukulchavan/)](https://github.com/mukulchavan/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/mukulchavan/)](https://github.com/mukulchavan/)
