@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mukulchavan23@gmail.com)](mailto:mukulchavan23@gmail.com)
 
 
-    Hello my name is Mukul Chavan, JavaScript and php Developer.
+    
 
 
 ## Knowledges
